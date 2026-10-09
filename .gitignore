@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (หากมีไฟล์เก็บรหัสผ่านในอนาคต)
+.env
+
+# Docker data / logs
+*.log
